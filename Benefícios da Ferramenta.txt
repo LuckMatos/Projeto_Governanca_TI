@@ -1,0 +1,11 @@
+Benefícios da Ferramenta para o Time de Desenvolvimento
+
+A utilização de um repositório em uma ferramenta de gestão de configuração traz os seguintes benefícios:
+
+Controle de Versão: Garante a rastreabilidade das mudanças nos artefatos do projeto.
+
+Colaboração Segura: Permite que múltiplos desenvolvedores trabalhem simultaneamente nos mesmos arquivos sem risco de perda de dados.
+
+Governança e Compliance: Facilita a auditoria e a gestão de acessos conforme os princípios do ITIL e COBIT.
+
+Armazenamento Centralizado: Mantém um histórico confiável de documentações e requisitos do projeto.
